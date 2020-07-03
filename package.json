@@ -24,11 +24,6 @@
     "eslint-plugin-react": "^7.20.3",
     "eslint-plugin-react-hooks": "^4.0.5"
   },
-  "peerDependencies": {
-    "react": "^16.13.1",
-    "react-native": "^0.62.2",
-    "react-navigation": "^4.4.0"
-  },
   "dependencies": {
     "react": "^16.13.1",
     "react-native": "^0.62.2",
