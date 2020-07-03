@@ -1,6 +1,6 @@
 {
   "name": "@seannyphoenix/single-page-nav",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Single-Page Navigator for React Native based on React Navigation",
   "main": "src/index.js",
   "scripts": {
